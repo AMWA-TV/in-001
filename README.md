@@ -1,7 +1,7 @@
-# \[Work In Progress\] AMWA IN-TEMPLATE: Template for AMWA Increment Documents
+# \[Work In Progress\] AMWA IN-001: API Requirements – Control of the Media Exchange Layer (MXL) v1.0
 
-[![Lint Status](https://github.com/AMWA-TV/in-template/workflows/Lint/badge.svg)](https://github.com/AMWA-TV/in-template/actions?query=workflow%3ALint)
-[![Render Status](https://github.com/AMWA-TV/in-template/workflows/Render/badge.svg)](https://github.com/AMWA-TV/in-template/actions?query=workflow%3ARender)
+[![Lint Status](https://github.com/AMWA-TV/in-001/workflows/Lint/badge.svg)](https://github.com/AMWA-TV/in-001/actions?query=workflow%3ALint)
+[![Render Status](https://github.com/AMWA-TV/in-001/workflows/Render/badge.svg)](https://github.com/AMWA-TV/in-001/actions?query=workflow%3ARender)
 
 This repository holds the source for this AMWA Increment Document from the [Advanced Media Workflow Association](https://amwa.tv)
 
@@ -9,19 +9,14 @@ This repository holds the source for this AMWA Increment Document from the [Adva
 
 ### What does it do?
 
-- Provides a template for creating new AMWA Increment Documents
+- This document defines the functional and non-functional requirements for a control API that manages [MXL](https://dmf-mxl.github.io/mxl/) Readers and Writers in a DMF environment.
 
 ### Why does it matter?
 
-- AMWA Increment Documents (INC-xxx) record incremental outputs of AMWA activity phases
-- They may stand on their own or be referenced by other documents, such as the NMOS specifications
-- This template helps ensure consistency between Increment Documents.
-- It also helps us test our continuous integration.
+- MXL does not define a control API, so documenting requirments will help promote interoperability.
 
 ### How does it work?
 
-- It contains [examples of documentation](docs/Overview.md) useful in AMWA Increment Documents
-- It provides a style guide and other advice for authors
-- Select `AMWA-TV/in-template` as the template when creating the new repo
+- Gives requirements for setting paramters and querying status of MXL Writers and Readers.
 
 <!-- INTRO-END -->
