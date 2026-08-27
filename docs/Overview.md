@@ -11,6 +11,10 @@ The API enables a control system to:
 
 This document is intended for implementers of control protocols that provide this API.
 
+The following diagram shows how the control API interacts with the MXL components:
+
+![MXL Control API Overview](images/mxl-api-model.drawio.png)
+
 ---
 
 ## 2. Scope
