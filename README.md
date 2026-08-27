@@ -1,7 +1,10 @@
 # \[Work In Progress\] AMWA IN-001: API Requirements – Control of the Media Exchange Layer (MXL) v1.0
 
-[![Lint Status](https://github.com/AMWA-TV/in-001/workflows/Lint/badge.svg)](https://github.com/AMWA-TV/in-001/actions?query=workflow%3ALint)
-[![Render Status](https://github.com/AMWA-TV/in-001/workflows/Render/badge.svg)](https://github.com/AMWA-TV/in-001/actions?query=workflow%3ARender)
+[![Lint Status](https://github.com/AMWA-TV/in-001/actions/workflows/lint.yml/badge.svg)](https://github.com/AMWA-TV/in-001/actions/workflows/lint.yml)
+[![Zensical Render Status](https://github.com/AMWA-TV/in-001/actions/workflows/docs.yml/badge.svg)](https://github.com/AMWA-TV/in-001/actions/workflows/docs.yml)
+[![Legacy Render Status](https://github.com/AMWA-TV/in-001/workflows/Render/badge.svg)](https://github.com/AMWA-TV/in-001/actions?query=workflow%3ARender)
+[![License](https://img.shields.io/github/license/AMWA-TV/in-001)](https://github.com/AMWA-TV/in-001/blob/HEAD/LICENSE)
+[![Issues](https://img.shields.io/github/issues/AMWA-TV/in-001)](https://github.com/AMWA-TV/in-001/issues)
 
 This repository holds the source of a work artifact published as an **AMWA Increment (IN)** from the [Advanced Media Workflow Association](https://amwa.tv)
 
@@ -19,9 +22,6 @@ This repository holds the source of a work artifact published as an **AMWA Incre
 
 - Gives requirements for setting paramters and querying status of MXL Writers and Readers.
 
-<br/>
----
-<br/>
 
 This work artifact is published as an **AMWA Increment (IN)**. Increments are intended to make public the ongoing progress of a working group without locking decisions into a formal specification. While the technical details contained in this repository do not constitute a stable or finalized specification, readers should note that Increments are Draft Specifications as defined in the AMWA IPR Policy. The provisions of the policy apply, including the requirement for early disclosure. You can expect the content to evolve incrementally based on ongoing testing, consensus-building, and community input. Public review is encouraged! Please post an Issue to the Repo to submit questions, feedback, or propose changes.
 
