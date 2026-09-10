@@ -1,4 +1,4 @@
-# \[Work In Progress\] AMWA IN-001: API Requirements – Control of the Media Exchange Layer (MXL) v1.0
+# AMWA IN-001: API Requirements – Control of the Media Exchange Layer (MXL) v1.0
 
 [![Lint Status](https://github.com/AMWA-TV/in-001/actions/workflows/lint.yml/badge.svg)](https://github.com/AMWA-TV/in-001/actions/workflows/lint.yml)
 [![Legacy Render Status](https://github.com/AMWA-TV/in-001/workflows/Render/badge.svg)](https://github.com/AMWA-TV/in-001/actions?query=workflow%3ARender)
