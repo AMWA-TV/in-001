@@ -1,0 +1,23 @@
+{
+  "amwa_id": "IN-001",
+  "url": "https://specs.amwa.tv/in-001",
+  "name": "API Requirements – Control of MXL v1.0",
+  "status": "AMWA Increment",
+  "repo_name": "in-001",
+  "alt_repo_name": null,
+  "repo_url": "https://github.com/AMWA-TV/in-001",
+  "releases": null,
+  "default_branch": "main",
+  "show_in_index": false,
+  "intro": {
+    "what_does_it_do": [
+      "Defines the functional and non-functional requirements for a control API that manages [MXL](https://dmf-mxl.github.io/mxl/) Readers and Writers in a DMF environment."
+    ],
+    "why_does_it_matter": [
+      "MXL does not define a control API, so documenting requirements will help promote interoperability."
+    ],
+    "how_does_it_work": [
+      "Gives requirements for setting paramters and querying status of MXL Writers and Readers."
+    ]
+  }
+}
