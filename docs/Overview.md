@@ -20,13 +20,13 @@ This document is intended for implementers of control protocols that provide thi
 - Control of MXL Readers
 - Control of MXL Writers
 - Querying current parameter values:
-  - `MXLDomainID`
-  - `MXLFlowID`
+    - `MXLDomainID`
+    - `MXLFlowID`
 
 ### 2.2 Out of Scope
 
 - Mapping of Domain ID to Flow Path
-  - This mapping must be configured when deploying the media function and is not handled by this API.
+    - This mapping must be configured when deploying the media function and is not handled by this API.
 - Media transport, encoding, or payload-level processing
 - Control of processing parameters
 
@@ -46,7 +46,7 @@ This document is intended for implementers of control protocols that provide thi
 ## 4. Architecture Assumptions
 
 - `MXLReader`s and `MXLWriter`s are part of Media Functions deployed by an orchestration system.
-  - Deployment is outside the scope of this document.
+    - Deployment is outside the scope of this document.
 - `MXLDomain`s and `MXLDomainID`s are created outside the scope of this document.
 - Media Functions can resolve `MXLDomainID`s to `MXLDomain`s (paths) and vice versa.
 - An `MXLReader` or `MXLWriter` can have access to one or more domains.
@@ -114,20 +114,20 @@ This document is intended for implementers of control protocols that provide thi
 
 - The `FlowID` of a writer is not created by the control system.
 - It is created either by:
-  - The orchestration system, or
-  - The writer itself.
+    - The orchestration system, or
+    - The writer itself.
 
 ### 6.2 State Management
 
 - Readers shall expose their current operational state:
-  - `started`
-  - `stopped`
+    - `started`
+    - `stopped`
 - Writers shall expose their current operational state:
-  - `started`
-  - `stopped`
+    - `started`
+    - `stopped`
 - Readers and writers shall expose their current transport parameters, including:
-  - `MXLFlowID`
-  - `MXLDomainID`
+    - `MXLFlowID`
+    - `MXLDomainID`
 
 ### 6.3 Error Handling
 
