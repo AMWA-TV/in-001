@@ -1,0 +1,13 @@
+legacy_url,legacy_status,target_url,target_status_current,mapping_class,legacy_content_type,legacy_location,target_content_type,target_effective_url
+https://specs.amwa.tv/in-001,200,https://specs.amwa.tv/in-001/,200,confirmed-inventory,text/html,https://specs.amwa.tv/new/in-001/latest/,text/html,https://specs.amwa.tv/in-001/
+https://specs.amwa.tv/in-001/,200,https://specs.amwa.tv/in-001/,200,confirmed-inventory,text/html,https://specs.amwa.tv/new/in-001/latest/,text/html,https://specs.amwa.tv/in-001/
+https://specs.amwa.tv/in-001/Overview/,200,,,no-target-rule,text/html,https://specs.amwa.tv/new/in-001/latest/Overview/,,
+https://specs.amwa.tv/in-001/assets/images/favicon.png,200,,,no-target-rule,image/png,https://specs.amwa.tv/new/in-001/latest/assets/images/favicon.png,,
+https://specs.amwa.tv/in-001/assets/javascripts/bundle.c04ba553.min.js,200,,,no-target-rule,text/javascript,https://specs.amwa.tv/new/in-001/latest/assets/javascripts/bundle.c04ba553.min.js,,
+https://specs.amwa.tv/in-001/assets/stylesheets/modern/main.40d3fdbb.min.css,200,,,no-target-rule,text/css,https://specs.amwa.tv/new/in-001/latest/assets/stylesheets/modern/main.40d3fdbb.min.css,,
+https://specs.amwa.tv/in-001/assets/stylesheets/modern/palette.812a03bb.min.css,200,,,no-target-rule,text/css,https://specs.amwa.tv/new/in-001/latest/assets/stylesheets/modern/palette.812a03bb.min.css,,
+https://specs.amwa.tv/in-001/images/,200,,,no-target-rule,text/html,https://specs.amwa.tv/new/in-001/latest/images/,,
+https://specs.amwa.tv/in-001/javascripts/amwa-branding.js,200,,,no-target-rule,text/javascript,https://specs.amwa.tv/new/in-001/latest/javascripts/amwa-branding.js,,
+https://specs.amwa.tv/in-001/javascripts/mathjax.js,404,,,no-target-rule,text/html,https://specs.amwa.tv/new/in-001/latest/javascripts/mathjax.js,,
+https://specs.amwa.tv/in-001/javascripts/mermaid.js,404,,,no-target-rule,text/html,https://specs.amwa.tv/new/in-001/latest/javascripts/mermaid.js,,
+https://specs.amwa.tv/in-001/stylesheets/amwa-branding.css,200,,,no-target-rule,text/css,https://specs.amwa.tv/new/in-001/latest/stylesheets/amwa-branding.css,,
